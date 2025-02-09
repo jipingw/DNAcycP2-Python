@@ -7,7 +7,7 @@ DNAcycP2 Python package
 
 **Cite DNAcycP2 package**:
 
-Kendall, B., Jin, C., Li, K., Ruan, F., Wang, X.A., Wang, J.-P., DNAcycP2: improved estimation of intrinsic DNA cyclizability through data augmentation, 2025
+Kendall, B., Jin, C., Li, K., Ruan, F., Wang, X.A., Wang, J.-P., DNAcycP2: improved estimation of intrinsic DNA cyclizability through data augmentation, *Nucleic Acids Research*,2025
 
 ## What is DNAcycP2?
 
